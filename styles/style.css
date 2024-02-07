@@ -1,0 +1,52 @@
+html { /* This is a CSS comment */
+    font-size: 10px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+h1 {
+    font-size: 50px;
+    text-align: center;
+    text-shadow: 3px 3px 1px black;
+}
+
+#header1-3,
+.hotdogmain
+{
+    color:chocolate;    
+}
+
+#list1 {
+    list-style-position: inside;   
+    color:rgb(243, 58, 58); 
+}
+
+#list2 {
+    padding-right: 135px;
+    list-style-position: inside;  
+    color:rgb(208, 44, 44);   
+}
+
+#list3 {
+    padding-right: 130px;
+    list-style-position: inside;
+    color:rgb(192, 29, 29);     
+}
+
+#hot1 {
+    border-radius: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 45%;
+}
+
+#main-header {
+    color:coral;
+}
+
+body {
+    width: 800px;
+    margin: auto;
+    background-color: #004a2c;
+    padding: 0 20px 20px 20px;
+    border: 20px solid rgb(79, 52, 12);
+}
